@@ -4,5 +4,6 @@ body{
 }
 
 img {
-    size: 32px;
+    height: 32px;
+    width: 32px;
 }
